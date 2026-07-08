@@ -47,7 +47,7 @@ INSERT INTO Employees VALUES (1, 'Alice Johnson', 'Manager', 70000, 'HR', TO_DAT
 INSERT INTO Employees VALUES (2, 'Bob Brown', 'Developer', 60000, 'IT', TO_DATE('2017-03-20', 'YYYY-MM-DD'));
 COMMIT;
 
--- Scenario 1: Age-based loan discount
+--Scenario 1: Age-based loan discount
 BEGIN
     FOR cust IN (SELECT c.CustomerID, l.LoanID,
                         FLOOR(MONTHS_BETWEEN(SYSDATE, c.DOB) / 12) AS Age
@@ -64,7 +64,7 @@ BEGIN
 END;
 /
 
--- Scenario 2: VIP status
+--Scenario 2: VIP status
 ALTER TABLE Customers ADD IsVIP VARCHAR2(5) DEFAULT 'FALSE';
 BEGIN
     FOR cust IN (SELECT CustomerID, Name, Balance FROM Customers)
@@ -80,7 +80,7 @@ BEGIN
 END;
 /
 
--- Scenario 3: Loan reminders within 30 days
+--Scenario 3: Loan reminders within 30 days
 BEGIN
     FOR loan IN (SELECT l.LoanID, c.Name, l.EndDate
                  FROM Loans l JOIN Customers c ON l.CustomerID = c.CustomerID
