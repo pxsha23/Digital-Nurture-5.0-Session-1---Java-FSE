@@ -1,6 +1,9 @@
 DN5.0-JavaFSE-Solutions/
+
 ├── README.md
+
 ├── Week-1 (Design Patterns, DSA, PLSQL, TDD, Logging)/
+
 │   ├── Design-Patterns/
 │   │   ├── Ex-1-SingletonPattern/
 │   │   │   └── ScreenShots/
