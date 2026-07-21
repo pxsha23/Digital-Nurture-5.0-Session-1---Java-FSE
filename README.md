@@ -22,6 +22,18 @@
 - Exercise 1 - Control Structures
 - Exercise 3 - Stored Procedures
 
+**JUnit**
+- Exercise 1 - Setting Up JUnit
+- Exercise 3 - Assertions in JUnit
+- Exercise 4 - AAA Pattern, Test Fixtures, Setup and Teardown
+
+**Mockito**
+- Exercise 1 - Mocking and Stubbing
+- Exercise 2 - Verifying Interactions
+
+**SLF4J**
+- Exercise 1 - Logging Error Messages and Warning Levels
+
 ---
 
 ### Week 2 - Spring Core, Spring Data JPA, JUnit, Mockito, SLF4J
@@ -34,18 +46,6 @@
 **Spring Data JPA & Hibernate**
 - Spring Data JPA Quick Example
 - JPA vs Hibernate vs Spring Data JPA
-
-**JUnit**
-- Exercise 1 - Setting Up JUnit
-- Exercise 3 - Assertions in JUnit
-- Exercise 4 - AAA Pattern, Test Fixtures, Setup and Teardown
-
-**Mockito**
-- Exercise 1 - Mocking and Stubbing
-- Exercise 2 - Verifying Interactions
-
-**SLF4J**
-- Exercise 1 - Logging Error Messages and Warning Levels
 
 ---
 
