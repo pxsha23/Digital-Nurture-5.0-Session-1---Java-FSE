@@ -11,102 +11,102 @@
 ### Week 1 - Engineering Concepts & Programming Languages
 
 **Design Patterns**
-- [Exercise 1 - Singleton Pattern](./Week1/DesignPatterns/Exercise1_Singleton)
-- [Exercise 2 - Factory Method Pattern](./Week1/DesignPatterns/Exercise2_FactoryMethod)
+- Exercise 1 - Singleton Pattern
+- Exercise 2 - Factory Method Pattern
 
 **Data Structures & Algorithms**
-- [Exercise 2 - E-commerce Platform Search](./Week1/DSA/Exercise2_EcommercePlatformSearch)
-- [Exercise 7 - Financial Forecasting](./Week1/DSA/Exercise7_FinancialForecasting)
+- Exercise 2 - E-commerce Platform Search
+- Exercise 7 - Financial Forecasting
 
 **PL/SQL**
-- [Exercise 1 - Control Structures](./Week1/PLSQL/Exercise1_ControlStructures)
-- [Exercise 3 - Stored Procedures](./Week1/PLSQL/Exercise3_StoredProcedures)
+- Exercise 1 - Control Structures
+- Exercise 3 - Stored Procedures
 
 ---
 
 ### Week 2 - Spring Core, Spring Data JPA, JUnit, Mockito, SLF4J
 
 **Spring Core & Maven**
-- [Exercise 1 - Configuring Basic Spring Application](./Week2/SpringCore/Exercise1_BasicSpringApp)
-- [Exercise 2 - Implementing Dependency Injection](./Week2/SpringCore/Exercise2_DependencyInjection)
-- [Exercise 4 - Maven Project Setup](./Week2/SpringCore/Exercise4_MavenProjectSetup)
+- Exercise 1 - Configuring Basic Spring Application
+- Exercise 2 - Implementing Dependency Injection
+- Exercise 4 - Maven Project Setup
 
 **Spring Data JPA & Hibernate**
-- [Spring Data JPA Quick Example](./Week2/SpringDataJPA/SpringDataJPA_QuickExample)
-- [JPA vs Hibernate vs Spring Data JPA](./Week2/SpringDataJPA/JPA_vs_Hibernate_vs_SpringDataJPA.md)
+- Spring Data JPA Quick Example
+- JPA vs Hibernate vs Spring Data JPA
 
 **JUnit**
-- [Exercise 1 - Setting Up JUnit](./Week2/JUnit/Exercise1_SettingUpJUnit)
-- [Exercise 3 - Assertions in JUnit](./Week2/JUnit/Exercise3_AssertionsInJUnit)
-- [Exercise 4 - AAA Pattern, Test Fixtures, Setup and Teardown](./Week2/JUnit/Exercise4_AAA_TestFixtures)
+- Exercise 1 - Setting Up JUnit
+- Exercise 3 - Assertions in JUnit
+- Exercise 4 - AAA Pattern, Test Fixtures, Setup and Teardown
 
 **Mockito**
-- [Exercise 1 - Mocking and Stubbing](./Week2/Mockito/Exercise1_MockingAndStubbing)
-- [Exercise 2 - Verifying Interactions](./Week2/Mockito/Exercise2_VerifyingInteractions)
+- Exercise 1 - Mocking and Stubbing
+- Exercise 2 - Verifying Interactions
 
 **SLF4J**
-- [Exercise 1 - Logging Error Messages and Warning Levels](./Week2/SLF4J/Exercise1_LoggingErrorAndWarning)
+- Exercise 1 - Logging Error Messages and Warning Levels
 
 ---
 
 ### Week 3 - Spring REST using Spring Boot 3
 
 **Spring REST**
-- [Exercise 1 - Create Spring Web Project](./Week3/SpringREST/Exercise1_CreateSpringWebProject)
-- [Exercise 2 - Load Country from Spring Config XML](./Week3/SpringREST/Exercise2_LoadCountryFromXML)
-- [Exercise 3 - Hello World RESTful Web Service](./Week3/SpringREST/Exercise3_HelloWorldREST)
-- [Exercise 4 - REST Country Web Service](./Week3/SpringREST/Exercise4_CountryWebService)
-- [Exercise 5 - Get Country by Code](./Week3/SpringREST/Exercise5_GetCountryByCode)
-- [Exercise 6 - JWT Authentication Service](./Week3/SpringREST/Exercise6_JWTAuthService)
+- Exercise 1 - Create Spring Web Project
+- Exercise 2 - Load Country from Spring Config XML
+- Exercise 3 - Hello World RESTful Web Service
+- Exercise 4 - REST Country Web Service
+- Exercise 5 - Get Country by Code
+- Exercise 6 - JWT Authentication Service
 
 ---
 
 ### Week 4 - Microservices with Spring Boot 3 & Spring Cloud
 
 **Microservices**
-- [Exercise 1 - Account and Loan Microservices](./Week4/Microservices/Exercise1_AccountAndLoan)
+- Exercise 1 - Account and Loan Microservices
 
 ---
 
 ### Week 5 - React Part 1
 
 **React**
-- [Exercise 1](./Week5/React/Exercise1)
-- [Exercise 2](./Week5/React/Exercise2)
-- [Exercise 3](./Week5/React/Exercise3)
-- [Exercise 4](./Week5/React/Exercise4)
-- [Exercise 5](./Week5/React/Exercise5)
+- Exercise 1
+- Exercise 2
+- Exercise 3
+- Exercise 4
+- Exercise 5
 
 ---
 
 ### Week 6 - React Part 2 & Git
 
 **React**
-- [Exercise 9](./Week6/React/Exercise9)
-- [Exercise 10](./Week6/React/Exercise10)
-- [Exercise 11](./Week6/React/Exercise11)
-- [Exercise 12](./Week6/React/Exercise12)
-- [Exercise 13](./Week6/React/Exercise13)
+- Exercise 9
+- Exercise 10
+- Exercise 11
+- Exercise 12
+- Exercise 13
 
 **Git**
-- [Exercise 1](./Week6/Git/Exercise1)
-- [Exercise 2](./Week6/Git/Exercise2)
-- [Exercise 3](./Week6/Git/Exercise3)
-- [Exercise 4](./Week6/Git/Exercise4)
-- [Exercise 5](./Week6/Git/Exercise5)
+- Exercise 1
+- Exercise 2
+- Exercise 3
+- Exercise 4
+- Exercise 5
 
 ---
 
 ### Week 7 - DevOps, Docker, Cloud & GenAI
 
 **DevOps & CI/CD**
-- [DevOps Concepts](./Week7/DevOps)
+- DevOps Concepts & CI/CD
 
 **Docker**
-- [Docker Fundamentals](./Week7/Docker)
+- Docker Fundamentals
 
 **Cloud Fundamentals**
-- [AWS Cloud Basics](./Week7/CloudFundamentals)
+- AWS Cloud Basics
 
 **GenAI**
-- [GenAI & Prompt Engineering](./Week7/GenAI)
+- GenAI & Prompt Engineering
